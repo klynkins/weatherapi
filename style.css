@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://images.urbanoutfitters.com/is/image/UrbanOutfitters/30968168_001_s");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body,
+h1, h2 
+p {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+hr {
+    width: 650px;
+    border-bottom: 1px solid white;
+}
+
